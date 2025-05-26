@@ -1,6 +1,6 @@
 # Elevate-Labs-Internship-TASK 01
 
-#### In the Task-1 folder and in the Jupyter notebook-'Task1_solution_code.ipynb', I have completed Task-1 through the process outlined below.
+#### In the Task-1 folder and in the Jupyter notebook-'Task1_solution_code.ipynb', I have completed Task-1 through the process outlined below. 
 
 ### 1. Data Exploration & Handling Missing Values
 Basic Inspection: Analyzed dataset structure (rows/columns), data types, and missing values.
